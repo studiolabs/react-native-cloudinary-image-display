@@ -15,8 +15,7 @@
         "test": "jest",
         "coverage": "jest --coverage",
         "precommit": "pretty-quick --staged",
-        "prepare": "npm run build",
-        "postinstall": "npm-insights:log"
+        "prepare": "npm run build"
     },
     "author": "gmorin.pro@gmail.com",
     "license": "ISC",
